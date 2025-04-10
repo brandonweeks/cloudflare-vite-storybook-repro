@@ -16,6 +16,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.0.4",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/react": "^16.2.0",
     "@types/react": "^19.0.8",
@@ -23,9 +24,10 @@
     "@vitejs/plugin-react": "^4.3.4",
     "jsdom": "^26.0.0",
     "typescript": "^5.7.2",
-    "vite": "^6.1.0",
+    "vite": "^6.2.6",
     "vitest": "^3.0.5",
-    "web-vitals": "^4.2.4"
+    "web-vitals": "^4.2.4",
+    "wrangler": "^4.9.1"
   },
   "packageManager": "pnpm@10.8.0+sha512.0e82714d1b5b43c74610193cb20734897c1d00de89d0e18420aebc5977fa13d780a9cb05734624e81ebd81cc876cd464794850641c48b9544326b5622ca29971"
 }
